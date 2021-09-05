@@ -1,0 +1,5 @@
+﻿  EmpolyeeImplementationcpp.cpp
+C:\Users\Abdulrahman Emad\source\repos\lab1Code\lab1Code\EmpolyeeImplementationcpp.cpp(32,23): warning C4305: '+=': truncation from 'double' to 'float'
+  lab1Code.cpp
+  Generating Code...
+  lab1Code.vcxproj -> C:\Users\Abdulrahman Emad\source\repos\lab1Code\Debug\lab1Code.exe
